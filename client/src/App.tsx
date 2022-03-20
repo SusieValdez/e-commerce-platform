@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="min-w-full min-h-screen">
       <Navbar />
-      <div>
+      <div className="divide-y-2">
         <Header />
         <Catalog />
         <Map />
