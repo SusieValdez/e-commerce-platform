@@ -2,7 +2,6 @@ import Navbar from "./components/Navbar";
 import Header from "./components/Header";
 import Catalog from "./components/Catalog";
 import Map from "./components/Map";
-import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import "./index.css";
 
@@ -14,7 +13,6 @@ function App() {
         <Header />
         <Catalog />
         <Map />
-        <Contact />
         <Footer />
       </div>
     </div>
